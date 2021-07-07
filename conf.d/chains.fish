@@ -1,4 +1,4 @@
-# default key sequence: Ctrl+q
+# default key sequence: Ctrl+s
 set -q chains_sequence
   or set -l chains_sequence \cq
 
