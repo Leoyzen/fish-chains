@@ -1,6 +1,6 @@
-# default key sequence: Ctrl+s
+# default key sequence: Ctrl+q
 set -q chains_sequence
-  or set -l chains_sequence \eq
+  or set -l chains_sequence \cq
 
 # if chains is already bound to some sequence, leave it
 test (bind | grep -q '[[:space:]]chains$')
